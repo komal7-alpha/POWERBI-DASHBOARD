@@ -45,7 +45,7 @@ It helps in understanding business growth and identifying improvement areas.
 
 ```
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](./dashboard.png)
 
 
 
