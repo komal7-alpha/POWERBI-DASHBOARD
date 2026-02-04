@@ -43,8 +43,6 @@ It helps in understanding business growth and identifying improvement areas.
 
 ## Dashboard Preview
 
-```
-
 ![Dashboard Preview](./dashboard.png)
 
 
