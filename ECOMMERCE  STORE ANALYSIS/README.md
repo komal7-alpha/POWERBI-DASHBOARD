@@ -46,6 +46,6 @@ It helps in understanding business growth and identifying improvement areas.
 ```
 
 ![Dashboard Preview](dashboard.png)
-<img width="1196" height="671" alt="image" src="https://github.com/user-attachments/assets/97610ebd-a617-4a37-8e27-f91494d7dbfb" />
+
 
 
